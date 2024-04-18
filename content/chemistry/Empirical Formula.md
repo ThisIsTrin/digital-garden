@@ -1,8 +1,6 @@
 ---
-date: 04/16/2024 20:52
+date: 2024-04-16
 category:
   - topic
-tags:
-  - new
 ---
 Simplest chemical formula

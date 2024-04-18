@@ -1,8 +1,6 @@
 ---
-date: 04/16/2024 16:32
+date: 2024-04-16
 category:
   - topic
-tags:
-  - new
 ---
 Symbol: $N_A$

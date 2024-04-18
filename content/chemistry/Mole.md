@@ -1,9 +1,7 @@
 ---
-date: 04/16/2024 16:29
+date: 2024-04-16
 category:
   - topic
-tags:
-  - new
 ---
 Symbol: $n$
 Unit of measuring

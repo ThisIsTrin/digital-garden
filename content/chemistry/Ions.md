@@ -1,9 +1,7 @@
 ---
-date: 04/16/2024 22:35
+date: 2024-04-16
 category:
   - topic
-tags:
-  - new
 ---
 # Anion
 $e^- >$ [[Atomic structure|Proton]]

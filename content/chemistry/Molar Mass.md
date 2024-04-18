@@ -1,9 +1,7 @@
 ---
-date: 04/16/2024 20:45
+date: 2024-04-16
 category:
   - topic
-tags:
-  - new
 ---
 Unit: $g/mol$
 Steps in determining:

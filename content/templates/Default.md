@@ -1,7 +1,5 @@
 ---
-date: <% tp.file.creation_date("MM/DD/YYYY HH:mm")  %>
+date: <% tp.file.creation_date("YYYY-MM-DD")  %>
 category:
   - topic
-tags:
-  - new
 ---
