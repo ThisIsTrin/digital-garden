@@ -9,7 +9,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   return (
     <h1 class={classNames(displayClass, "page-title")}>
       <a href={baseDir}>
-        <img src="../static/icon.png" />
+        <img src="/static/icon.png" />
         {title}
       </a>
     </h1>
