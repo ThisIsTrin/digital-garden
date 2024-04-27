@@ -22,3 +22,4 @@ Negatively charge subatomic particles
 Photoelectron spectroscopy is used to determine:
 - How many electron an atom has
 - Which [[Electron Subshells]] they are in
+Valence electron referring to electron in [[Electron Shells#Valence shell]] 
