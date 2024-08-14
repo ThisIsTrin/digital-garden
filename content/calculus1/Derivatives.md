@@ -2,6 +2,8 @@
 date: 2024-05-25
 category:
   - topic
+aliases:
+  - Differentiate
 ---
 # Limit definition of derivative
 This came form finding slope formula ($\frac{rise}{run}$)

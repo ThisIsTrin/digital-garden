@@ -2,6 +2,8 @@
 date: 2024-06-08
 category:
   - topic
+aliases:
+  - Integration
 ---
 # Definition of integral
 This is using the Riemann Sums
