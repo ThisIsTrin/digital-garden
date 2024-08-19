@@ -1,7 +1,7 @@
 ---
 date: 2024-08-08
 category:
-  - topic
+  - moc
 ---
 [[drive-dynamics]]
 

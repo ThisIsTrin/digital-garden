@@ -3,10 +3,10 @@ title: Trin's Notes
 ---
 *"Nothing happens until something moves." - Albert Einstein*
 
-Trin's personal notes that mainly focused on my own understanding. Feel free to use all my notes if needed, hope it help.
-
 [[01_chem_moc|Chemistry MOC]]
 
 [[01_calculus1_moc|Calculus 1 MOC]]
 
 [[01_formula_sae_moc |Formula SAE MOC]]
+
+[[01-critical_tinking|Critical Thinking Reading and Writing]]

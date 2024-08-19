@@ -37,3 +37,4 @@ $$-1 \le \sin \frac1 x \le 1$$
 $$-x^2 \le x^2\sin \frac1 x \le x^2$$
 since $$\lim_{x \rightarrow 0} (-x^2) = \lim_{x \rightarrow 0} x^2 = 0$$
 therefore $$\lim_{x \rightarrow 0} x^2sin\frac1 x = 0$$
+
