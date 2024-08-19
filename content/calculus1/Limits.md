@@ -21,10 +21,15 @@ $$ \lim_{x\rightarrow a^+} f(x)$$
 # Properties of limit
 ## Sum/Difference Law
 $$\lim_{x \rightarrow a } [f(x) \pm g(x)]=\lim_{x \rightarrow a } f(x) \pm \lim_{x \rightarrow a } g(x)$$
-$$\lim_{x \rightarrow a } [cf(x)]=c\lim_{x \rightarrow a } f(x)
-$$$$\lim_{x \rightarrow a } [f(x) g(x)]=\lim_{x \rightarrow a } f(x) \cdot \lim_{x \rightarrow a } g(x)$$
+
+$$\lim_{x \rightarrow a } [cf(x)]=c\lim_{x \rightarrow a } f(x)$$
+
+$$\lim_{x \rightarrow a } [f(x) g(x)]=\lim_{x \rightarrow a } f(x) \cdot \lim_{x \rightarrow a } g(x)$$
+
 $$\lim_{x \rightarrow a } [\frac {f(x)} {g(x)}]= \frac{ \lim_{x \rightarrow a } f(x)}{\lim_{x \rightarrow a } g(x)}$$
+
 $$\lim_{x \rightarrow a } [f(x)]^n=[\lim_{x \rightarrow a } f(x)]^n$$
+
 $$\lim_{x \rightarrow a } [\sqrt[n]{f(x)}]=\sqrt[n]{\lim_{x \rightarrow a } f(x)}$$
 # Squeeze theorem
 If $f(x)\le g(x)\le h(x)$ when $x$ is near $a$ & $$\lim_{x\rightarrow a} f(x) = \lim_{x\rightarrow a} g(x) = L $$
@@ -37,4 +42,3 @@ $$-1 \le \sin \frac1 x \le 1$$
 $$-x^2 \le x^2\sin \frac1 x \le x^2$$
 since $$\lim_{x \rightarrow 0} (-x^2) = \lim_{x \rightarrow 0} x^2 = 0$$
 therefore $$\lim_{x \rightarrow 0} x^2sin\frac1 x = 0$$
-
