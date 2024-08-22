@@ -3,6 +3,10 @@ date: 2024-08-21
 category:
   - topic
 ---
+**Analogy**: Like an aspiring chef who refines knowledge over time by learning from a vast collection of "recipes" (texts). 
+
+**Training Process**: Over time, the model becomes better at understanding word relationships and context.
+
 Large Language Models (LLMs) are a subset of artificial intelligence that focus on understanding and generating human language. This lecture explores LLMs, their key concepts, and their real-life applications.
 
 ## Artificial Intelligence (AI) 
