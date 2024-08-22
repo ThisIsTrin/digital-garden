@@ -9,6 +9,8 @@ title: Trin's Notes
 
 [[01_formula_sae_moc |Formula SAE MOC]]
 
-[[01-critical_tinking|Critical Thinking Reading and Writing]]
+[[01_critical_tinking|Critical Thinking Reading and Writing]] (LAS 101)
 
-[[01_sustainable_moc |Circularity for Sustainable Development]]
+[[01_sustainable_moc |Circularity for Sustainable Development]] (GTS131)
+
+[[01_ai_moc|Artificial Intelligence]] (GTS124)
