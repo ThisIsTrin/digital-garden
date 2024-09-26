@@ -3,7 +3,7 @@ category:
   - moc
 title: Chemistry MOC
 ---
-%% [[Atomic structure]]
+ [[Atomic structure]]
 [[Isotopes]]
 [[Matter]]
 [[Avogadro's number]]
@@ -49,9 +49,10 @@ title: Chemistry MOC
 [[Le Chatelier's Principle]]
 [[Solubility Equilibrium]]
 [[Molar Solubility]]
-[[Common Ion Effect]] %%
+[[Common Ion Effect]] 
 
-# Atomic Structure
+# In Categories
+## Atomic Structure
 - [[Isotopes]]
 - [[Electron Shells]]
 - [[Electron Subshells]]
@@ -59,14 +60,14 @@ title: Chemistry MOC
 - [[Ionization Energy]]
 - [[Coulomb's Law]]
 
-# Matter
+## Matter
 - [[Avogadro's number]]
 - [[Molar Mass]]
 - [[Mole]]
 - [[Chemical Formula]]
 - [[Ions]]
 
-# Chemical Bonding
+## Chemical Bonding
 - [[Chemical Bond]]
 - [[Ionic Bond]]
 - [[Covalent Bond]]
@@ -79,13 +80,13 @@ title: Chemistry MOC
 - [[Allotropes]]
 - [[Covalent Network]]
 
-# Gas Laws and Kinetics
+## Gas Laws and Kinetics
 - [[Ideal Gas law]]
 - [[Partial Pressure]]
 - [[Kinetic Molecular Theory]]
 - [[Real gas]]
 
-# Solutions and Reactions
+## Solutions and Reactions
 - [[Solution]]
 - [[Chemical Reaction]]
 - [[Net Ionic Equation]]
@@ -100,7 +101,7 @@ title: Chemistry MOC
 - [[Molar Solubility]]
 - [[Common Ion Effect]]
 
-# Spectroscopy and Quantum Phenomena
+## Spectroscopy and Quantum Phenomena
 - [[Electromagnetic Spectrum]]
 - [[Photoelectric Effect]]
 - [[Beer-Lambert Law]]

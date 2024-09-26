@@ -14,3 +14,9 @@ The function will be continuous at point $c$ if:
 For rational function:
 If $\frac 0 0$ then it is hole discontinuity
 if $\frac{\text{constant}} 0$ it is asymptote
+
+# Prove continuity
+The function required to satisfied these condition:
+1. $f(a)$ is define
+2. $\lim_{x \rightarrow a} f(x)$ exist
+3. $\lim_{x \rightarrow a} f(x) = f(a)$

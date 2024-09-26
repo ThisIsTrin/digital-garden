@@ -11,4 +11,10 @@ category:
 
 [[Ecological Footprint]]
 
+[[SDG-6]]
+
+[[SDG-11]]
+
+[[SDG-12]]
+
 [[Water Resources, Demand, and Challenges]]

@@ -41,4 +41,4 @@ Production of 1kg wheat require 500 liters of water
 - Pharmaceuticals, microplastics, and other pollutants not removed by current treatment methods pose new risks.
 # Global Water Security
   - Over 2 billion people lack access to safe drinking water, and many live in water-stressed regions.
-# [[SDGs#SDG6 Clean Water and Sanitation|Sustainable Development Goals (SDG 6)]]
+# [[SDG-6|Sustainable Development Goals (SDG 6)]]

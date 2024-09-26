@@ -36,6 +36,16 @@ $$\lim_{x \rightarrow a } [\frac {f(x)} {g(x)}]= \frac{ \lim_{x \rightarrow a } 
 $$\lim_{x \rightarrow a } [f(x)]^n=[\lim_{x \rightarrow a } f(x)]^n$$
 
 $$\lim_{x \rightarrow a } [\sqrt[n]{f(x)}]=\sqrt[n]{\lim_{x \rightarrow a } f(x)}$$
+
+# Limit of absolute values
+$$|x| = 
+\left\{
+\begin{array}{ll}
+      x & x\geq 0 \\
+      -x & x< 0 \\
+\end{array} 
+\right.
+$$
 # Squeeze theorem
 If $f(x)\le g(x)\le h(x)$ when $x$ is near $a$ & 
 
@@ -57,3 +67,32 @@ $$\lim_{x \rightarrow 0} (-x^2) = \lim_{x \rightarrow 0} x^2 = 0$$
 therefore 
 
 $$\lim_{x \rightarrow 0} x^2sin\frac1 x = 0$$
+# Infinite Limit 
+Take [[#One-Sided Limit]] of both side and see if it math then we have limit.
+
+$$\lim_{x→0^+} \frac1x=\infty$$
+$$\lim_{x→0^-}\frac 1 x=-\infty$$
+$$\lim_{x→0^+}\ln x=-\infty$$
+# Limit at infinity
+Factor out the highest degree.
+
+$$\lim _{x\rightarrow \infty} e^x = \infty$$
+$$\lim _{x\rightarrow -\infty} e^x = 0$$
+$$\lim _{x\rightarrow \infty} e^{-x} = 0$$
+$$\lim _{x\rightarrow -\infty} e^{-x} = \infty$$
+
+$$\lim _{x\rightarrow \infty} \ln x = \infty$$
+$$\lim _{x\rightarrow \infty} \tan^{-1} x = \frac \pi 2$$
+$$\lim _{x\rightarrow -\infty} \tan^{-1} x = -\frac \pi 2$$
+# Applications
+## Intermediate value theorem
+If $f$ is continuous on interval $[a, b]$ and let N be any number that is
+$$f(a) < N > f(b)$$
+there will be point that
+$$f(c) = N$$
+
+This is used to prove that there is another solution in a certain interval
+
+## Newtons method 
+$$X_n = x_{n-1} - \frac{f(x_{n-1})}{f'(x_{n-1}}$$
+## [[Continuity]]
