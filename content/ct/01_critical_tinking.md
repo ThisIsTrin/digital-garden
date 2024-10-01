@@ -8,3 +8,13 @@ category:
 [[Disputes]]
 
 [[Definitions]]
+
+[[Fallacy]]
+
+[[Proposition]]
+
+[[Declarative]]
+
+[[Imperative]]
+
+[[Argument]]

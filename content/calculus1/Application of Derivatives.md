@@ -9,9 +9,11 @@ category:
 2. Plug critical point and the end points to the function
 3. Compare
 ## Extreme Value Theorem
-
+$f(x)$ is continuous on interval $[a,b]$  where $a\le c$, and $d \le b$
+$f(c)$ is an absolute max
+$f(d)$ is an absolute min
 ## Fermat’s Theorem
-
+If f(x) has a relative extrema at x=c and f′(c) exists then x=c is a critical point of f(x). In fact, it will be a critical point such that f′(c)=0.
 # Relative Maximum and Relative Minimum
 
 # Mean Value Theorem
