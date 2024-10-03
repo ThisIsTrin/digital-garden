@@ -3,9 +3,9 @@ Status: #teen
 Tags: [[Self Development]] 
 # Left and Right brain dominants differences
 
-Left brained will be more logical and analytical
+Left brained will be more logical and analytical, use logic and reasoning
 
-Right brain will be more intuitive and subjective
+Right brain will be more intuitive and subjective, uses feeling
 
 So what is the difference between learning style of left and right brained people?
 [[Different learning style]]
