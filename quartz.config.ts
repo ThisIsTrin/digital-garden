@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "thisistrin.github.io/digital-garden",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "400 Templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

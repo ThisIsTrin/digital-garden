@@ -25,7 +25,7 @@ DL is a subset of ML that uses neural networks with many layers to model complex
 - **Assistants**: Virtual assistants like Siri and Alexa.
 - **Creative Uses**: Generating art, writing, and more.
 
-[[NLP-Workflow]] 
-[[Language-Modeling]] 
-[[Transformers]] 
+[[nlp-workflow]] 
+[[language-modeling]] 
+[[transformers]] 
 [[gpt]]

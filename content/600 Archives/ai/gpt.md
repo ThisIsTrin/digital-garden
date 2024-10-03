@@ -18,5 +18,5 @@ category:
 - Wikipedia
 
 [[llm#Applications of LLMs]]
-[[Prompt-Engineering]]]
-[[Tokenization]]
+[[prompt-engineering]]]
+[[tokenization]]

@@ -12,5 +12,5 @@ Language modeling involves assigning probabilities to sequences of words to pred
 - **Statistical Models**: Predict the next word based on statistical analysis of existing text.
 - **Neural Language Models**: Use deep learning techniques to improve predictions.
 
-[[Transformers]]
+[[transformers]]
 [[GPT-Overview]]

@@ -5,7 +5,7 @@ category:
 ---
 [[Current Global Environment Issues]]
 
-[[Sustainability]]
+[[Theory Sustainability]]
 
 [[SDGs]]
 

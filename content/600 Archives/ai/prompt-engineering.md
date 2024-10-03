@@ -8,5 +8,5 @@ A prompt is a clear and specific instruction given to LLMs to improve their perf
 ## Importance
 Effective prompts can significantly enhance the accuracy and relevance of the model's responses.
 
-[[Tokenization]]
+[[tokenization]]
 [[nlp-workflow#NLP Applications]]
