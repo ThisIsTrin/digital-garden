@@ -1,4 +1,7 @@
-2024-10-02 21:02
+---
+date: 2024-10-02 
+---
+
 Status: #child 
 Tags: [[World]] [[Global Environment Issues]] [[Sustainability]]
 # Overpopulations

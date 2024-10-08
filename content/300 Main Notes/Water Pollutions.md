@@ -1,4 +1,7 @@
-2024-10-02 21:06
+---
+date: 2024-10-02
+---
+
 Status: #child 
 Tags:[[World]] [[Global Environment Issues]] [[Sustainability]]
 # Water Pollutions

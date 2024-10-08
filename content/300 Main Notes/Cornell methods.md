@@ -1,8 +1,9 @@
 ---
 date: 2024-10-02
 ---
+
 Status: #teen
-Tags: [[Productivity]] [[Note]]
+Tags: [[Productivity]] [[Note]] 
 # Cornell methods
 System for taking notes on paper
 

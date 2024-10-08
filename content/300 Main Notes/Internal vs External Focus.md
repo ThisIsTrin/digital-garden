@@ -1,4 +1,7 @@
-2024-10-03 14:00
+---
+date: 2024-10-03
+---
+
 Status: #teen 
 Tags: [[Self Development]]
 # Internal vs External Focus

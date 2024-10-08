@@ -1,4 +1,7 @@
-2024-10-03 14:33
+---
+date: 2024-10-03
+---
+
 Status: #teen 
 Tags: [[Self Development]] [[Learn]]
 # Learning Pyramid

@@ -1,4 +1,7 @@
-2024-10-03 14:16
+---
+date: 2024-10-03 
+---
+
 Status: #teen 
 Tags: [[Self Development]] [[Learn]]
 # Phonetic vs Whole-Language

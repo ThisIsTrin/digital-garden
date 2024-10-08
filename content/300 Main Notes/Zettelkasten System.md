@@ -1,6 +1,9 @@
-2024-10-02 20:11
+---
+date: 2024-10-02
+---
+
 Status: #adult
-Tags: [[Productivity]] [[Note]] 
+Tags: [[Productivity]] [[Note]] [[Self Development]]
 # Zettelkasten System
 People like to say this is one of the powerful note taking system, but I ask my self why?
 

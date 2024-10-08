@@ -1,4 +1,7 @@
-2024-10-02 20:48
+---
+date: 2024-10-02
+---
+
 Status: #child 
 Tags: [[Math]]
 # Even or Odd function

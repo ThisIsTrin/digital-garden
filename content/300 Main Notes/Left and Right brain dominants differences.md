@@ -1,4 +1,7 @@
-2024-10-03 12:34
+---
+date: 2024-10-03
+---
+
 Status: #teen
 Tags: [[Self Development]] 
 # Left and Right brain dominants differences

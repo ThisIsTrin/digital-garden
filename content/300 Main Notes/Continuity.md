@@ -1,8 +1,9 @@
 ---
-date: 2024-08-19
-category:
-  - topic
+date: 2024-10-06
 ---
+Status: #teen
+Tags: [[Calculus 1]] [[Math]]
+# Continuity
 Continuous if it has no "holes", break, or asymptotes
 Holes in formal term is removeable discontinuity
 
@@ -20,3 +21,5 @@ The function required to satisfied these condition:
 1. $f(a)$ is define
 2. $\lim_{x \rightarrow a} f(x)$ exist
 3. $\lim_{x \rightarrow a} f(x) = f(a)$
+# References
+[[Limits]]

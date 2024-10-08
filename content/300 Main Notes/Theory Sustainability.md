@@ -1,4 +1,7 @@
-2024-10-02 21:25
+---
+date: 2024-10-02 
+---
+
 Status: #teen  
 Tags: [[Sustainability]]
 # Theory Sustainability

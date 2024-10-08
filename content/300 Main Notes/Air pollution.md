@@ -1,6 +1,7 @@
 ---
 date: 2024-10-02
 ---
+
 Status: #child 
 Tags:[[World]] [[Current Global Environment Issues]] [[Sustainability]]
 # Air pollution

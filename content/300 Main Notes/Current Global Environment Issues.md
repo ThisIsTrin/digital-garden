@@ -1,4 +1,7 @@
-2024-10-02 20:44
+---
+date: 2024-10-02
+---
+
 Status: #adult
 Tags: [[Sustainability]] [[World]] [[Global Environment Issues]]
 # Current Global Environment Issues

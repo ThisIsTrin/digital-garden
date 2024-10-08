@@ -15,6 +15,6 @@ category:
 
 [[SDG-11]]
 
-[[SDG-12]]
+[[Old SDG-12]]
 
 [[Water Resources, Demand, and Challenges]]

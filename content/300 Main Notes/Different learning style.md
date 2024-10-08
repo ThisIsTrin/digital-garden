@@ -1,4 +1,7 @@
-2024-10-03 13:47
+---
+date: 2024-10-03
+---
+
 Status: #adult  
 Tags: [[Self Development]] [[Learn]]
 # Different learning style

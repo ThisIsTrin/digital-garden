@@ -1,6 +1,7 @@
 ---
-date: {{date:YYYY-MM-DD}}
+date: {{date}}
 ---
+
 Status: #child 
 Tags:
 # {{Title}}
