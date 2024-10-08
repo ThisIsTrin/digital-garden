@@ -24,3 +24,4 @@ Remember to include "+ c"
 ```
 # References
 [[Antiderivative]]
+[[Integration by Substitution]]

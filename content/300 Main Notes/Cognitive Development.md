@@ -3,7 +3,7 @@ date: 2024-10-04
 ---
 
 Status: #child 
-Tags:
+Tags: 
 # Cognitive Development
 
 1. Dualism - (Dual mean two) think in two this: right or wrong
