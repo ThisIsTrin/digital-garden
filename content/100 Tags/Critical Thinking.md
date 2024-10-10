@@ -1,9 +1,4 @@
----
-date: 2024-08-19
-category:
-  - topic
----
-**Critical thinking** - a collection of skill used every day, which is about ability to judge or ability to make decision
+%% **Critical thinking** - a collection of skill used every day, which is about ability to judge or ability to make decision
 
 **Logic** - study methods & principle used to distinguish correct or good argument from poor arguments 
 
@@ -18,4 +13,4 @@ Uneducated opinion could lead to poor decision making
 3. Research skill
 4. Open mindedness
 5. Flexibility
-6. Creativity
+6. Creativity %%
