@@ -16,3 +16,19 @@ We have different states of need, which one are you in?,
 
 One of the best note-taking method,
 [[Cornell methods]]
+
+%% AFTER MIDTERM %%
+How to read books and understand it,
+[[Active Reading]]
+[[Reading Strategies]]
+[[SQ3R]]
+[[Five-Part Reading System]]
+
+Special technique for reading books,
+[[Special Reading Technique]]
+
+When we try to review about the content we learn/read,
+[[Reviewing Strategies]]
+
+How to build your Vocabulary:
+[[Build your Vocabulary]]
